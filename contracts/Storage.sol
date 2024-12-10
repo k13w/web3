@@ -19,6 +19,8 @@ contract Storage {
         number = num;
     }
 
+    sol = makecontract
+
     /**
      * @dev Return value 
      * @return value of 'number'
