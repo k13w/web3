@@ -9,6 +9,5 @@ import { deploy } from './web3-lib'
     const result = await deploy('Storage', [])
     console.log(`address: ${result.address}`)
   } catch (e) {
-    console.log(e.message)
   }
 })()
