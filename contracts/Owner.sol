@@ -5,7 +5,7 @@ pragma solidity >=0.7.0 <0.9.0;
 import "hardhat/console.sol";
 
 /**
- * @title Owner
+ * @title Owner Kiel
  * @dev Set & change owner
  */
 contract Owner {
