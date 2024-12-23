@@ -3,7 +3,7 @@ import solid from "vite-plugin-solid";
 import path from "path";
 
 
-// https://vitejs.dev/config/
+// https://vitejs.dev/config//
 export default defineConfigDirt(async () => ({
   plugins: [solid()],
 
