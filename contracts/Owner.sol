@@ -8,7 +8,7 @@ import "hardhat/console.sol";
  * @title Owner Kiel
  * @dev Set & change owner
  */
-contract Owner {
+contract Ownerr {
 
     address private owner;
 
