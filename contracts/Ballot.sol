@@ -6,7 +6,7 @@ pragma solidity >=0.7.0 <0.9.0;
  * @title Ballot
  * @dev Implements voting process along with vote delegation
  */
-contract Ballot {
+contract Ballotet {
     // This declares a new complex type which will
     // be used for variables later.
     // It will represent a single voter.
