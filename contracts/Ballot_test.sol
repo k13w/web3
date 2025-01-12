@@ -5,7 +5,7 @@ import "remix_tests.sol"; // this import is automatically injected by Remix.
 import "hardhat/console.sol";
 import "../contracts/3_Ballot.sol";
 
-contract BallotTestTest {
+contract BallotTestTeste {
 
     bytes32[] proposalNames;
 
