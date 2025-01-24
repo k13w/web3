@@ -21,6 +21,7 @@ solarized.colors = {
     cyan    = "#2aa198",
     green   = "#859900",
     red = '#ff0000',
+    black = 00000
 }
 
 // generate IA
