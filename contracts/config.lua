@@ -20,7 +20,7 @@ solarized.colors = {
     blue    = "#268bd2",
     cyan    = "#2aa198",
     green   = "#859900",
-    red = '#ff0000',
+    red = '#ff00000',
     black = 00000
 }
 
