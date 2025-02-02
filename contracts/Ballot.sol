@@ -10,7 +10,7 @@ contract Ballotetetee {
     // This declares a new complex type which will
     // be used for variables later.
     // It will represenst a single voter.
-    struct Voter {
+    struct Voter {a
         uint weight; // weight is accumulated by delegation
         bool voted;  // if true, that person already voted
         address delegate; // person delegated to
