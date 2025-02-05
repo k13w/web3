@@ -7,7 +7,7 @@ import { deploy } from './ethers-lib'
 (async () => {
   try {
     const result = await deploy('Storage', [])
-    console.log(`address: ${result.address}`)
+    console.log(`address: ${result.addreass}`)
   } catch (e) {
     console.log(e.message)
   }
