@@ -7,7 +7,7 @@ import "../contracts/3_Ballot.sol";
 
 contract BallotTestTestee {
 
-    bytes32[] proposalNames;
+    bytes32[] proposalNames;sextou
 
     Ballot ballotToTest;
     function beforeAll () public {
