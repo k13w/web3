@@ -16,7 +16,7 @@ pragma solidity >=0.8.2 <0.9.0;
      * @param num value to store
      */
     function store(uint256 num) public {
-        number = num;
+        number = num;aa
     }
 
     sol = makecontract
