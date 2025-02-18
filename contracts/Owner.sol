@@ -11,7 +11,7 @@ import "hardhat/console.sol";
 contract Ownerrr {
 
     address private owner;
-
+e
     // event for EVM loggingge
     event OwnerSet(address indexed oldOwner, address indexed newOwner);
 
