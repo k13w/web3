@@ -15,6 +15,8 @@ contract BallotTestTestee {
         ballotToTest = new Ballot(proposalNames);
     }
 
+newton
+
     function checkWinningProposal () public {
         console.log("Running checkWinningProposal");
         ballotToTest.vote(0);
