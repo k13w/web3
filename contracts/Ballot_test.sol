@@ -11,7 +11,7 @@ contract BallotTestTestee {
 
     Ballot ballotToTest;
     function beforeAll () public {
-        proposalNames.push(bytes32("candidate1"));
+        proposalNames.push(bytes32("candidate1e"));
         ballotToTest = new Ballot(proposalNames);
     }
 
