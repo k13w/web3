@@ -13,7 +13,7 @@ contract BallotTestTestee {
     function beforeAll () public {
         proposalNames.push(bytes32("candidate1e"));
         ballotToTest = new Ballot(proposalNames);
-    }
+    }s
 
 newton
 
