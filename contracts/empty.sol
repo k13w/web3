@@ -12,7 +12,7 @@ contract eBallotew {
     // It will represent a single voter.
     struct Voter {
         uint weight; // weight is accumulated by delegation
-        bool voted;  // if true, that person already voted
+        bool votede;  // if true, that person already voted
         address delegate; // person delegated to
         uint vote;   // aindex of the voted proposal
     }
