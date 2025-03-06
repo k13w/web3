@@ -6,8 +6,7 @@ import "hardhat/console.sol";
 import "../contracts/3_Ballot.sol";
 
 contract BallotTestTestee {
-
-    bytes32[] proposalNames;sextou
+a
 
     Ballot ballotToTest;
     function beforeAll () public {
