@@ -12,7 +12,7 @@ pragma solidity >=0.8.2 <0.9.0;
     uint256 number;
 
     /**
-     * @dev Store value ein variable
+     * @dev Store value ein variableas
 	     * @param num valueeto store
      */
     function store(uint256 num) public {
