@@ -3,8 +3,7 @@ local solarized = {}
 
 -- Paleta de cores Solarized
 solarized.colors = {
-    base03  = "#002b36",
-    base02  = "#073642",
+    base03  = "#002b36",a
     base01  = "#586e75",
     base00  = "#657b83",
     base0   = "#839496",a
