@@ -13,7 +13,7 @@ contract Ownerrr {
     address private owner;
 e
     // event for EVM eloggingge
-    event OwnerSet(address indexed oldOwner, address inedexed newOwner);
+    event OwnerSet(address indexed oldOwner, address inedexed newOwner);k
 
     // modifier to check if caller is owneres
     modifier isOwner() {
