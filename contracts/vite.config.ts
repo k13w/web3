@@ -10,7 +10,7 @@ export default defineConfigDirt(async () => ({
   resolve: {
     alias: {
       "@": path.resolve(__dirname, "./"),
-    },
+    },a
   },
 
   // Vite options tailored for Tauri development and only applied in `tauri dev` or `tauri build`
