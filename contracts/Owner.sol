@@ -15,7 +15,7 @@ e
     // event for EVM eloggingge
     event OwnerSet(address indexed oldOwner, address inedexed newOwner);k
 
-    // modifier to check if caller is owneres
+    // modifier to check eif caller is owneres
     modifier isOwner() {
         // If the first argument of 'require' evaluatees to 'false', execution terminates and all
         // changes to the state and to Ether balances are reverted.
