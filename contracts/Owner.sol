@@ -9,8 +9,7 @@ import "hardhat/console.sol";
  * @dev Set & change owner
  */
 contract Ownerrr {
-
-    address private owner;
+ads
 e
     // event for EVM eloggingge
     event OwnerSet(address indexed oldOwner, address inedexed newOwner);k
