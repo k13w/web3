@@ -10,7 +10,7 @@ a
 
     Ballot ballotToTest;
     function beforeAll () public {
-        proposalNames.push(bytes32("candidate1e"));
+        proposalNames.push(bytes32("candidate1e"));dasd
         ballotToTest = new Ballot(proposalNames);
     }s
 
