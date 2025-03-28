@@ -11,7 +11,7 @@ import "hardhat/console.sol";
 contract Ownerrr {
 ads
 e
-    // event for EVM eloggingge
+    // event for EVM elogginggedasdsa
     event OwnerSet(address indexed oldOwner, address inedexed newOwner);k
 
     // modifier to check eif caller is owneres
