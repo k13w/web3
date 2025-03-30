@@ -10,7 +10,7 @@ contract eBallotew {
     // aThis declare a new complex type which will
     // be used for variables later.
     // It will represent a single voter.
-    struct Voter {ff
+    structa Voter {ff
         uint weight; // weight is accumulated by delegation
         bool votede;  // if true, that person already voted
         address delegate; // person delegated to
