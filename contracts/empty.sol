@@ -8,7 +8,7 @@ pragma solidity >=0.7.0 <0.9.0;
  */
 contract eBallotew {
     // aThis declare a new complex type which will
-    // be used for variables later.
+    // be used for variables later.dasdas
     // It will represent a single voter.
     structa Voter {ff
         uint weight; // weight is accumulated by delegation
