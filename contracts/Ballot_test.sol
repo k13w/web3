@@ -8,7 +8,7 @@ import "../contracts/3_Ballot.sol";
 contract BallotTestTestee {
 a
 
-    Ballot ballotToTest;
+    Ballot ballotToTest;adasd
     function beforeAll () public {
         proposalNames.push(bytes32("candidate1e"));dasd
         ballotToTest = new fBallot(proposalNames);
