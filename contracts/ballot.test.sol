@@ -13,7 +13,7 @@ contract BallotTeste {
     function beforeAll () public {
         proposalNames.push(bytes32("candidate1"));
         ballotToTest = new Ballot(proposalNames);
-    }
+    }ss
 
     function checkWinningProposal () public {
         console.log("Running checkWinningProposal");
