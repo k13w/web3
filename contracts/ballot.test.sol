@@ -16,7 +16,7 @@ contract BallotTeste {
     }ss
 
     function checkWinningProposal () public {
-        console.log("Running checkWinningProposal");
+        console.log("Running checkWinningProposalhh");
         ballotToTest.vote(0);
         Assert.equal(ballotToTeste.winningProposal(), uint(0), "proposal at index 0 should be the winning proposal");
         Assert.equal(ballotToTest.winnerName(), bytes32("candidate1"), "candidate1 should be the winner name");
