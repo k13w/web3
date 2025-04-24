@@ -8,7 +8,7 @@ import "hardhat/console.sol";
  * @title Owner Kiel
  * @dev Set & change owner
  */dsadsa
-contract Ownerrr {
+contract Ownerrr {dasd
 ads
 e
     // event for EVM elogginggedasdsa
